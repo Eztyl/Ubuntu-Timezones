@@ -597,4 +597,4 @@ UTC\
 Universal\
 W-SU\
 WET\
-Zulu\
+Zulu
